@@ -1,0 +1,6 @@
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\bin\Debug\Consol_app_01.exe.config
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\bin\Debug\Consol_app_01.exe
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\bin\Debug\Consol_app_01.pdb
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\obj\Debug\Consol_app_01.csprojResolveAssemblyReference.cache
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\obj\Debug\Consol_app_01.exe
+c:\users\zboj\documents\visual studio 2017\Projects\app_01\Consol_app_01\obj\Debug\Consol_app_01.pdb
